@@ -23,7 +23,7 @@ Para garantizar la sana convivencia entre los miembros de nuestras comunidades h
 
 1. NO se tolerarán las amenazas directas o indirectas, en forma de doxxing, abuso, muerte, DDoS, entre otras amenzas maliciosas, a cualquier miembro del club.
 
-1. Sigue los términos y condiciones de WhatsApp y de Discord (dependieno la comunidad a la que accedas). Estos los podrás encontrar en https://www.whatsapp.com/legal/terms-of-service/?lang=es y en https://discord.com/guidelines respectivamente.
+1. Sigue los términos y condiciones de WhatsApp y de Discord (dependieno la comunidad a la que accedas). Estos los podrás encontrar en [https://www.whatsapp.com/legal/terms-of-service/](https://www.whatsapp.com/legal/terms-of-service/?lang=es) y en [https://discord.com/guidelines](https://discord.com/guidelines) respectivamente.
 
 1. El no leer las reglas **NO** te exime de las consecuencias.
 
