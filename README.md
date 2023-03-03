@@ -1,4 +1,4 @@
-<div align="center"><a href="https://programacion-cucei.club"><img src="res/logo_club.gif" width="320"></a></div><br>
+<div align="center"><a href="https://programacion-cucei.club"><picture><source media="(prefers-color-scheme: dark)" srcset="res/logo_club.gif"><img src="res/logo_club_dark.gif" width="320"></picture></a></div><br>
 
 <h3 align="center">Reglamento de convivencia para las comunidades del Club de Programación CUCEI</h3><br>
 
@@ -30,4 +30,4 @@ Para garantizar la sana convivencia entre los miembros de nuestras comunidades h
 
 1. Los líderes del club se reservan el derecho de aplicar sanciones (advertencia, silencio, expulsión; según la plataforma) de acuerdo a **su criterio**. Si tienes algún problema no tengas pena en contactar a alguno de los líderes y nosotros te ayudaremos.
 
-<br><div align="center"><img src="res/accionu.png" width="180"></div>
+<br><div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="res/accionu.png"><img src="res/accionu_dark.png" width="180"></picture></div>
