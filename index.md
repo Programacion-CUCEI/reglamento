@@ -3,7 +3,7 @@ layout: default
 ---
 <h3 align="center">Reglamento de convivencia para las comunidades del Club de Programación CUCEI</h3><br>
 
-> Última actualización: **10/02/2023 00:41**
+> Última actualización: **03/03/2023 00:04**
 
 Para garantizar la sana convivencia entre los miembros de nuestras comunidades hemos redactado el siguiente reglamento.
 
@@ -11,13 +11,15 @@ Para garantizar la sana convivencia entre los miembros de nuestras comunidades h
 
 1. El respeto es obligatorio hacia **TODOS** los miembros del club, independientemente de tu simpatía hacia ellos. Recuerda, *trata a los demás como quieres que te traten a ti*.
 
+1. Está **PROHIBIDO** publicar fotos de otras personas sin su consentimiento en los grupos/canales del club.
+
 1. El uso de groserías debe mantenerse al mínimo. De igual manera, se **prohibe** cualquier tipo de lenguaje despectivo hacia cualquier miembro.
 
 1. Se prohibe el uso inadecuado de los grupos/canales de la comunidad. Les pedimos mantenerse *on-topic* en cada uno de estos y eviten los temas fuera del contexto del club.
 
 1. A nadie nos gusta el spam. Les pedimos que eviten enviar una gran cantidad de mensajes pequeños uno tras de otro.
 
-1. Queda **estrictamente prohibido** el compartir material pornográfico u otro tipo de material *NSFW*. Esto aplica en forma de fotografía, gif, sticker, emoji, etc.
+1. Queda **estrictamente prohibido** el compartir (o hacer referencia a) material pornográfico u otro tipo de material *NSFW*. Esto aplica en forma de fotografía, gif, sticker, emoji, etc.
 
 1. No se permiten los nombres ni las fotos de perfil ofensivas. Se te pedirá que cambies tu nombre o foto si la comunidad o los líderes los considera inapropiados.
 
